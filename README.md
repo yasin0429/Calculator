@@ -1,4 +1,4 @@
 # Calculator
-My first adroid studio project.
+My first android studio project.
 
 
